@@ -1,4 +1,4 @@
-# Students Management Systeù
+# Students Management System
 Stack:
 
 Front-End: React Js, Styling(Bootstrap 5)
